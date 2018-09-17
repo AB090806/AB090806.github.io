@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+I am a person in the universe 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am in Year 8
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[arun.bangay@challoners.org](mailto:arun.bangay@challoners.org)
